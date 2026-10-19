@@ -23,3 +23,6 @@ cp .env.example .env
 # set VITE_API_URL to your deployed Render API URL
 npm run dev
 ```
+
+## Vercel Deployment
+Configured for Vercel production deployment with Vite and auto-detected build output.
